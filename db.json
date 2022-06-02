@@ -1,0 +1,16 @@
+{
+  "country": [
+    {
+      "id": 1,
+      "Country": "India",
+      "City": "shahdol",
+      "Population": "19824154"
+    },
+    {
+      "id": 2,
+      "Country": "SriLanka",
+      "City": "Colombo",
+      "Population": "97498570"
+    }
+  ]
+}
